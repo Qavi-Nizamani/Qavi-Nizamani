@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Qavi-Nizamani
 - 👀 I’m interested in Web developing
-- 🌱 I’m currently learning reactJs
+- 🌱 I’m currently working as a full stack developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail me at 'QaviNiz11@gmail.com'...
 
